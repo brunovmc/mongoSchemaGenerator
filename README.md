@@ -1,4 +1,4 @@
-# Mongoose Schema Creator
+# Mongoose Schema Generator
 
 This script creates a Mongoose schema in a Node.js project based on user input. The schema is created based on the name of the schema and the properties that the user specifies. The script then generates a JavaScript file with the Mongoose schema definition that can be used in a Node.js application.
 
